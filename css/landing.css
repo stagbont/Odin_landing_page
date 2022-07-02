@@ -83,11 +83,15 @@ nav {
     align-items: center;
     justify-content: center;
     background-color: #F6B40D;
-    color: #FFFFFF;
     padding: 5px 15px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.sign_up_btn a {
+    font-weight: 900;
+    color: #1E4775;
 }
 
 .hero_right_content {
@@ -106,3 +110,44 @@ nav {
     width: 70%;
     padding-bottom:35vh;
 }
+
+.product_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product_header {
+    font-size: 26px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    color: #1E4775;
+}
+
+.food_items {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.food_items li {
+    cursor: pointer;
+}
+
+.food_items li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+    color: #1E4775;
+    font-size: 18px;
+}
+
+.product_img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+
+

@@ -89,3 +89,20 @@ nav {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.hero_right_content {
+    flex-basis: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.image_placeholder {
+    background: url(../images/Hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 70%;
+    padding-bottom: 100%;
+}

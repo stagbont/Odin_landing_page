@@ -82,7 +82,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #F6B40D;
+    background-color: #1E4775;
     padding: 5px 15px;
     border: none;
     border-radius: 5px;
@@ -90,8 +90,9 @@ nav {
 }
 
 .sign_up_btn a {
+    font-size: 22px;
     font-weight: 900;
-    color: #1E4775;
+    color: white;
 }
 
 .hero_right_content {
@@ -150,5 +151,38 @@ nav {
     margin-bottom: 10px;
 }
 
+.testimonal_container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F6B40D;
+    justify-content: center;
+    padding: 60px 250px;
+    margin-bottom: 40px;
+}
 
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
 
+}
+
+.name {
+    font-size: 22px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.profile_img {
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.testimony_text {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 400;
+}

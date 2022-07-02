@@ -20,6 +20,9 @@ Photo by Polina Tankilevitch: https://www.pexels.com/photo/hotdog-sandwiches-wit
 Pancake Image
 Photo by Chokniti Khongchum: https://www.pexels.com/photo/close-up-photo-of-stacked-pancakes-2280545/
 
+Profile Image
+Photo by Andrew Personal  Training : https://www.pexels.com/photo/photo-of-man-in-white-shirt-with-round-black-analog-watch-697509/
+
 
 
 

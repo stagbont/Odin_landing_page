@@ -26,6 +26,20 @@ nav {
     font-size: 32px;
     font-weight: 500;
     color: #F6B40D;
+    cursor: pointer;
+}
+
+.order_btn {
+    background-color: #1E4775;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 15px;
+    margin-left: 60px;
+    cursor: pointer;
 }
 
 .menu_list {
@@ -41,12 +55,19 @@ nav {
     margin-bottom: 5px;
 }
 
+.menu_tab {
+    color: #1E4775;
+}
+
 .menu_list li a {
     text-decoration: none;
     margin-right: 20px;
-    color: #1E4775;
     font-size: 18px;
     font-weight: 500;
+}
+
+main {
+    margin-bottom: 80px;
 }
 
 .hero_container {
@@ -215,15 +236,13 @@ nav {
     color: #000000;
 }
 
-.order_btn {
+footer {
     background-color: #1E4775;
-    color: white;
-    border-radius: 5px;
-    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 5px 15px;
-    margin-left: 60px;
-    cursor: pointer;
+    padding: 15px 0 ;
 }

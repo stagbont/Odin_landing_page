@@ -4,3 +4,11 @@
     FFFFFF
     F6B40D
 
+*** Photos ***
+Hero Image
+Photo by Terje Sollie: https://www.pexels.com/photo/sliced-steak-on-plate-299348/
+
+
+
+
+
